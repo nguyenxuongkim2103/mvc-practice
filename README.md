@@ -70,7 +70,7 @@ You need to install Node Package Manager first.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nguyenxuongkim2103/react-route.git
+   git clone https://github.com/nguyenxuongkim2103/mvc-practice
    ```
 2. Install NPM packages
    ```sh
@@ -80,7 +80,7 @@ You need to install Node Package Manager first.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/nguyenxuongkim2103/mvc-practice/issues) for a list of proposed features (and known issues).
 
 
 
